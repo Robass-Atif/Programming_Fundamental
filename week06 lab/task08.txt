@@ -1,0 +1,26 @@
+#include<iostream>
+using namespace std;
+float lowestprice(int,string);
+
+main()
+{
+    float kilo;
+    string period;
+    cout << "
+
+}
+
+
+
+
+
+
+
+
+
+
+
+float lowestprice(int,string)
+{
+
+}
